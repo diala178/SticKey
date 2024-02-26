@@ -6,22 +6,48 @@ The goal was to use the CRUD operations, where a customer (user) would choose a 
 An E-commerce application to buy stickers for keyboard messages.
 
 ## Features
-1- View Sticker (GET)
+
+------ STICKER
+
+1- User View Sticker (GET) 
 
 
-2- User click on sticker to view status (GET)
+2- Add stickers to the User's View to buy (POST) -> US
+
+
+3- Delete sticker from the user's view (DELETE) -> US
+
+
+------ USER 
+
+4- Get all users information (GET) -> US
+
+
+5-User Makes Account (POST)
+
+
+------ ORDER
+
+6- Get all user's orders (GET) -> US
+
+
+7- get the specific order of the user so that they can see it (GET) -> Us & User
+
+
+8- user can order multiple sticer and orders (POST) 
+
+
+9- Delete sticker from shopping cart (Delete)
+
+
+10- User updates order content (PUT)
 
 
 
-3-Choose status (PUT)
 
 
 
-4-add to shopping cart (POST)
 
-
-
-5- Delete sticker from shopping cart (Delete)
 
 
 
