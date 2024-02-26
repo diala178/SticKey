@@ -7,9 +7,20 @@ An E-commerce application to buy stickers for keyboard messages.
 
 ## Features
 1- View Sticker (GET)
+
+
 2- User click on sticker to view status (GET)
+
+
+
 3-Choose status (PUT)
+
+
+
 4-add to shopping cart (POST)
+
+
+
 5- Delete sticker from shopping cart (Delete)
 
 
